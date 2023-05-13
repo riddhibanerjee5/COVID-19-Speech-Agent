@@ -1,2 +1,3 @@
 # COVID-19-Speech-Agent
-![Screenshot 2023-05-12 202843](https://github.com/riddhibanerjee5/COVID-19-Speech-Agent/assets/58393237/db11726f-3682-43b5-b25a-0ed7d3e0bf5b)
+https://github.com/riddhibanerjee5/COVID-19-Speech-Agent/assets/58393237/8bfcfc6d-2849-407b-aeb3-f8af530f320c
+
