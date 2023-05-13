@@ -30,7 +30,7 @@ exports.dialogflowFirebaseFulfillment = functions.https.onRequest((request, resp
     }
 
     function latest(agent) {
-        // Call the API to get latest stats
+        // Call the API to get the latest stats
         var type_array = agent.parameters.type;
         return getJSON("https://coronavirus-tracker-api.ruizlab.org/v2/latest?source=nyt")
             .then(json => {
